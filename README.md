@@ -40,15 +40,15 @@ MobileNet achieved the highest classification accuracy of approximately 67.17%.
 ## Project Outputs
 
 ### Model Comparison
-![Model Comparison](Model%20Comparison%20Table.JPG)
+![Model Comparison](model_comparison_table.jpg)
 
 ### Performance Chart
-![Performance Chart](Model%20Performance%20Chart.JPG)
+![Performance Chart](model_performance_chart.jpg)
 
 ### Vehicle Detection Results
-![Output 1](Vehicle%20Detection%20Output1.JPG)
+![Output 1](vehicle_detection_output_1.jpg)
 
-![Output 2](Vehicle%20Detection%20Output2.JPG)
+![Output 2](vehicle_detection_output_2.jpg)
 
 ## Author
 Khalandar Noor Ahmed
